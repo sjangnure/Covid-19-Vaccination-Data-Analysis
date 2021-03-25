@@ -11,7 +11,7 @@ Files included:
 3. The python code for the project in my_final_project.py file.
 
 # Steps to execute the project
-## 1. Download Supply_210312.excel and my_final_project.py
-## 2. Make sure you have python, pandas, kaggle installed
-## 3. Have a kaggle account and download kaggle.json file
-## 4. Run the my_final_project.py file and a few plots will be generated in the folder where your program is stored.
+1. Download Supply_210312.excel and my_final_project.py
+2. Make sure you have python, pandas, kaggle installed
+3. Have a kaggle account and download kaggle.json file
+4. Run the my_final_project.py file and a few plots will be generated in the folder where your program is stored.
